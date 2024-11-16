@@ -1,0 +1,6 @@
+dependencies:
+  espressif/button: "==3.3.1"
+  espressif/qrcode: "==0.1.0~2"
+  lvgl/lvgl: "==8.3.11"
+  esp_lcd_sh1107: "^1"
+  esp_lvgl_port: "^1"
