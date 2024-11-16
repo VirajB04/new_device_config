@@ -1,6 +1,6 @@
                             Pick2Lite  Device  Menu  configuration  details
                                                                                   
-                                    
+                                       
                                                    Menu Bar - Page 1
 
 The above given image is the basic layout of our home screen. Our home screen is menu where we can see we have various options for configurations settings like Display, button, RGB, Address, Health state, feature, Prox sensor and flap door configurations. 
